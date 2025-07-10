@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Here is "MiracleStack" </h1>
+<h1 align="center">Hi 👋, I am Edwin Perez </h1>
 <h3 align="center">Experienced Senior Full-Stack Developer | 10+ Years of Experience | AI • DevOps • Cloud</h3>
 
 <p align="center">
