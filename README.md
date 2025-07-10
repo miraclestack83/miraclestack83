@@ -57,6 +57,8 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraclestack83&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ### ✉️ Connect with Me
 
 <p>
@@ -79,7 +81,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miraclestack83/miraclestack83/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miraclestack83/miraclestack83/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miraclestack83/miraclestack83/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
