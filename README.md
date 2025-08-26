@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Edwin Perez </h1>
-<h3 align="center">Experienced Senior Full-Stack Developer | 10+ Years of Experience | AI • DevOps • Cloud</h3>
+<h1 align="center">Hi 👋, I am Yusuf Zaidi </h1>
+<h3 align="center">Experienced Senior Full-Stack Developer | 8+ Years of Experience | Mearn Stack • Django</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miraclestack83&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Full-stack engineer with 10+ years in software development
+- 💼 Full-stack engineer with 8+ years in software development
 - 🔧 Skilled in building **enterprise-level, scalable web and mobile applications**
-- 🌍 Specialized in **Python/Django**, **Java/Spring Boot**, **.NET**, **React/Next.js**, **Node.js**, and **Flutter**
+- 🌍 Specialized in **Node.js**, **Python/Django**, **Java/Spring Boot**, **.NET**, **React/Next.js** and **Flutter**
 - ☁️ Experienced in **AWS**, **GCP**, serverless, containers, and CI/CD pipelines
 - 🤖 Enthusiastic about **AI/ML integration**, clean architecture, and team leadership
 - 🧩 Passionate about developer experience, automation, and scalable backend systems
@@ -99,9 +99,9 @@
 ### ✉️ Connect with Me
 
 <p>
-  <a href="mailto:edwin.perez8583@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/edwinperez1985080372"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://edwin-peprez-8583.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:yusuf.zaidi924@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yusuf-zaidi-575a3437b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yusuf-zaidi.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
