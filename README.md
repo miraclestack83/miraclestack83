@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Yusuf Zaidi </h1>
+<h1 align="center">Hi 👋, I am Devin Hocutt </h1>
 <h3 align="center">Experienced Senior Full-Stack Developer | 8+ Years of Experience | Mearn Stack • Django</h3>
 
 <p align="center">
