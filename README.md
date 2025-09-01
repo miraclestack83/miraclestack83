@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Devin Hocutt </h1>
-<h3 align="center">Experienced Senior Full-Stack Developer | 8+ Years of Experience | Mearn Stack • Django</h3>
+<h3 align="center">Experienced Senior Full-Stack Developer | 10+ Years of Experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miraclestack83&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Full-stack engineer with 8+ years in software development
+- 💼 Full-stack engineer with **10+ years in software development**
 - 🔧 Skilled in building **enterprise-level, scalable web and mobile applications**
 - 🌍 Specialized in **Node.js**, **Python/Django**, **Java/Spring Boot**, **.NET**, **React/Next.js** and **Flutter**
 - ☁️ Experienced in **AWS**, **GCP**, serverless, containers, and CI/CD pipelines
@@ -99,25 +99,12 @@
 ### ✉️ Connect with Me
 
 <p>
-  <a href="mailto:yusuf.zaidi924@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yusuf-zaidi-575a3437b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yusuf-zaidi.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:dhocutt86@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devern-h-239b021a5"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dhocutt.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=miraclestack83&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=miraclestack83&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miraclestack83/miraclestack83/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miraclestack83/miraclestack83/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+  <img src="https://streak-stats.demolab.com?user=miraclestack83&locale=en&mode=daily&theme=dracula&hi
